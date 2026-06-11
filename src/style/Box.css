@@ -1,0 +1,21 @@
+.low {
+    background-color: #80FF80;
+}
+
+.mid {
+    background-color: #FFFF80;
+}
+
+.high {
+    background-color: #FF8080;
+}
+
+.selected {
+    filter: brightness(1.2);
+    color: black
+}
+
+.idle {
+    filter: brightness(0.5);
+    color: black
+}
